@@ -70,11 +70,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\UnityTests\UnityTests.Common\UnityTests.Common.csproj">
+    <ProjectReference Include="..\UnityTests.Common\UnityTests.Common.csproj">
       <Project>{55902f3b-20f0-42a8-bc94-50f1981c9dd9}</Project>
       <Name>UnityTests.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\UnityTests\UnityTests.Data\UnityTests.Data.csproj">
+    <ProjectReference Include="..\UnityTests.Data\UnityTests.Data.csproj">
       <Project>{ff54d681-40f3-4b11-b807-6f83657c4e00}</Project>
       <Name>UnityTests.Data</Name>
     </ProjectReference>

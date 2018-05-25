@@ -80,7 +80,7 @@
       <Project>{62efced4-b593-4fc4-8126-b7ff316cf8bc}</Project>
       <Name>UnityTests.Business</Name>
     </ProjectReference>
-    <ProjectReference Include="UnityTests.Common\UnityTests.Common.csproj">
+    <ProjectReference Include="..\UnityTests.Common\UnityTests.Common.csproj">
       <Project>{55902f3b-20f0-42a8-bc94-50f1981c9dd9}</Project>
       <Name>UnityTests.Common</Name>
     </ProjectReference>

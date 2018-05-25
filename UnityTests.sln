@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTests", "UnityTests.csproj", "{13DDB08A-66C9-448E-B384-F697C33B0496}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTests", "UnityTests\UnityTests.csproj", "{13DDB08A-66C9-448E-B384-F697C33B0496}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTests.Business", "..\UnityTests.Business\UnityTests.Business.csproj", "{62EFCED4-B593-4FC4-8126-B7FF316CF8BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTests.Business", "UnityTests.Business\UnityTests.Business.csproj", "{62EFCED4-B593-4FC4-8126-B7FF316CF8BC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTests.Data", "UnityTests.Data\UnityTests.Data.csproj", "{FF54D681-40F3-4B11-B807-6F83657C4E00}"
 EndProject
